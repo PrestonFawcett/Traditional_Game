@@ -1,5 +1,6 @@
-Materials Required:
-Paper
-Pencil
-Colored writing utensil
-Timer
+**Materials Required:**
+
+- Paper
+- Pencil
+- Colored writing utensil
+- Timer
