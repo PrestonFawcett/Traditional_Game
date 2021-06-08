@@ -5,10 +5,12 @@ Name: Fawcett, Preston
 Number of players: 2 players
 
 **Setup**
+
     Each player has a piece of paper, colored writing utensil, and a pencil.
     Set a timer for 2 minutes (you can adjust the amount of time based on preference).
 
 **Objective**
+
     Once you start the timer both players will begin to draw a maze on their piece of paper with their pencil. The maze must have a start and finish clearly labeled and the maze must be solvable.
     
     Once the timer is done flip over your paper and hand it over to the other player.
