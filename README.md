@@ -19,7 +19,7 @@ Number of players: 2 players
 
 **Sidenotes**
 
-    * It is a good idea to include dead ends.
-    * You can have your start/finish in the center or outside of the maze.
-    * Ensure you do not leave any unwanted holes in your walls (specifically at corners) because they will be considered legal routes within your maze. 
-    * When solving the maze you can choose to begin from the finish or start.
+    - It is a good idea to include dead ends
+    - You can have your start/finish in the center or outside of the maze
+    - Ensure you do not leave any unwanted holes in your walls (specifically at corners) because they will be considered legal routes within your maze
+    - When solving the maze you can choose to begin from the finish or start
