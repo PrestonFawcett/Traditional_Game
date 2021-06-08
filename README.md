@@ -15,7 +15,7 @@ Number of players: 2 players
     At the same time flip over the paper and attempt to solve the other players maze with your colored writing utensil. In order to declare the maze is solved the line must be continuous without any breaks from start to finish and cannot break any walls. The first person to solve the other players maze wins. If the maze you're trying to solve has no solution then you automatically win.
 
 **Sidenotes**
-    *It is a good idea to include dead ends.
-    *You can have your start/finish in the center or outside of the maze.
-    *Ensure you do not leave any unwanted holes in your walls (specifically at corners) because they will be considered legal routes within your maze. 
-    *When solving the maze you can choose to begin from the finish or start.
+    * It is a good idea to include dead ends.
+    * You can have your start/finish in the center or outside of the maze.
+    * Ensure you do not leave any unwanted holes in your walls (specifically at corners) because they will be considered legal routes within your maze. 
+    * When solving the maze you can choose to begin from the finish or start.
