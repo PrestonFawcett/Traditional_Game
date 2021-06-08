@@ -1,2 +1,5 @@
-
-Make a list of all the materials needed to make your game.
+Materials Required:
+Paper
+Pencil
+Colored writing utensil
+Timer
